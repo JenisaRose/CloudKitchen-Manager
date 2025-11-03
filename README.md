@@ -30,5 +30,3 @@ It handles tasks like **order management**, **menu control**, **inventory tracki
 - **Concepts Used:** OOP (Classes, Objects, Inheritance, Polymorphism, Encapsulation), Collections, File Handling or JDBC
 
 ---
-
-## 📂 Project Structure
